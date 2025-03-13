@@ -1,3 +1,3 @@
 # PrepareForInterviewInMinutes
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/faizaslam11/PrepareForInterviewInMinutes)
+Still in Dev. For now, You can try the demo version here
+https://sunny-vacherin-16ca51.netlify.app/
